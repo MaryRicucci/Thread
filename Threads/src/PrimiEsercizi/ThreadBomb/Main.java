@@ -10,7 +10,8 @@ public class Main {
 
          */
 
-        for (int i = 0 ; i<20 ; i++) {
+        for (int i = 1 ; i<20 ; i++) {
+            System.out.println("Tentativo: "+i);
             String in = "";
             if (random.nextBoolean()){
                 in = "ENTER";
