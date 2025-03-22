@@ -1,3 +1,4 @@
+package PrimiEsercizi.ThreadBomb
 public class Bomba extends Thread {
     private String in;
 
